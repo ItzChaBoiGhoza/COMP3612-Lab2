@@ -5,6 +5,8 @@
 
 body {
     background-color: #f9f9f9;
+    margin: 0em 4em;
+    font-family: 'Open Sans', sans-serif;
 }
 
 article {
@@ -21,32 +23,33 @@ article {
 
 h1 {
     color: #9f2042;
-    font-size: 40px;
+    font-size: 2rem;
     text-align: center;
     padding-bottom: 15px;
+    font-family: 'Roboto Slab', serif;
 }
 
 h3 {
     text-align: center;
     padding-bottom: 25px;
     color: #a9a9ba;
-    font-weight: 300;
-    font-size: 25px;
+    font-size: 1.25rem;
 }
 
 p {
-    font-size: 20px;
+    font-size: 1.25rem;
     padding: 15px 20px 15px 20px;
 }
 
 blockquote {
     background-color: #ececec;
-    font-size: 25px;
+    font-size: 1.25rem;
     padding: 25px 65px 25px 65px;
+    font-family: 'Roboto Slab', serif;
 }
 
 .links {
-    font-size: 20px;
+    font-size: 0.9rem;
     padding: 25px 0 25px 45px;
 }
 
@@ -68,7 +71,7 @@ footer {
 
 .nav {
     padding-left: 10px;
-    font-size: 20px;
+    font-size: 0.9rem;
 }
 
 .nav a {
